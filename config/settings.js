@@ -61,10 +61,9 @@ const GALLERY_PHOTOS = [
    Setiap string adalah satu paragraf.
    Bisa ditambah atau dikurangi paragrafnya.                       */
 const LETTER_PARAGRAPHS = [
-  "Selamat ulang tahun untuk wanita yang pantas mendapatkan dunia dan lebih dari itu, Ibu sayang❤️. Ibu, terima kasih atas semua yang Ibu lakukan, baik yang tampak maupun yang tidak terlihat. Semuanya tidak pernah luput dari perhatian, dan semua perjuangan Ibu selalu menjadi bentuk cinta yang begitu besar.",
-  "Kasih sayang Ibu, kekuatan Ibu, dan pengorbanan Ibu adalah bagian yang paling berharga dalam hidupku. Ibu adalah tempat paling aman bagiku, dan juga sosok yang paling aku kagumi. Hari ini, aku ingin Ibu tahu betapa besar rasa sayang, penghargaan, dan kebanggaanku atas Ibu.",
-  "Ibu, semoga hari ini mengingatkan Ibu betapa Ibu sangat dicintai, dihormati, dan sangat istimewa. Ibu pantas menerima yang terbaik, yang paling hangat, dan yang paling indah dalam hidup ini. Terima kasih karena selalu menjadi ibu yang luar biasa, serta menjadi panutan dan tempat pulang yang paling nyaman.",
-  "Aku berharap Ibu selalu tahu bahwa Ibu tidak pernah sendiri, dan Ibu tidak pernah kurang dihargai. Aku sayang Ibu selalu, ibuuuu🤍🫶🏻. Semoga hari ini membawa kebahagiaan, kedamaian, dan banyak momen indah yang akan selalu Ibu ingat."
+  "Happy birthday to the woman who deserves the world and more🤍 Ibu, thank you for everything you do, seen and unseen. Your love, strength and sacrifices never go unnoticed, and I'm so grateful to have you as my ibu.",
+  "You're my safe place, and my role model. I hope today reminds you of how loved, appreciated and special you truly are because you deserve nothing less than the best.",
+  "I love you always, ibuuuu🤍🫶🏻"
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -126,7 +125,7 @@ const WISHES = [
    Nomor WA untuk membalas pesan setelah lilin ditiup.
    Gunakan format internasional tanpa tanda + (contoh: 62812...) */
   const WHATSAPP_NUMBER = "6281234567890";
-  const WHATSAPP_MESSAGE = "Halo Ibu sayang, terima kasih sudah menjadi sumber kebahagiaan dan kekuatan dalam hidupku. Selamat ulang tahun! ❤️";
+  const WHATSAPP_MESSAGE = "Happy birthday to the woman who deserves the world and more🤍 Ibu, thank you for everything you do, seen and unseen. Your love, strength and sacrifices never go unnoticed, and I'm so grateful to have you as my ibu, You're my safe place, and my role model, I hope today reminds you of how loved, appreciated and special you truly are because you deserve nothing less than the best. I love you always, ibuuuu🤍🫶🏻";
 
   window.OCEAN_SETTINGS = {
     recipientName: String(RECIPIENT_NAME),
